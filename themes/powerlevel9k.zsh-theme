@@ -1,0 +1,1 @@
+/home/francis/DEV/powerlevel9k/powerlevel9k.zsh-theme
